@@ -1,0 +1,9 @@
+particularidades:
+01. adicionar python directory to path - environment variables
+begin python on windows terminal - python ou py
+
+exec files - must be out ou python terminal to work
+ superuser:
+ login: liv.souza
+ pass: django girls 2017
+
